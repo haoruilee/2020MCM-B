@@ -59,6 +59,6 @@ F（day,place1,place2,weight1,weight2）
 ```
 计算量（时间与空间复杂度）约为
 
-1200kg$\times$1200kg$\times$10天$\times$10个点$\times$10个点=14亿
+1200kg $\times$ 1200kg $\times$ 10天 $\times$ 10个点 $\times$ 10个点=14亿
 
 可以接受了
